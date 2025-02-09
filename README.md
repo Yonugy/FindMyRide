@@ -16,7 +16,7 @@ Use motion sensors to track your movement, so when it's time to find your car, y
 
 ## Prototype:
 
-![WhatsApp Image 2025-02-05 at 10 16 51_47493b6f](https://github.com/user-attachments/assets/ddaa5e38-e644-4ac3-9e33-95172ca71c12)
+<img src="https://github.com/user-attachments/assets/ddaa5e38-e644-4ac3-9e33-95172ca71c12" width="400">
 
 
 ## Technology used:
