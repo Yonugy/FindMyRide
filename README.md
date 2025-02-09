@@ -1,6 +1,6 @@
 # FindMyRide
 
-[Guide to File in MIT App Inventor](#how-to-open-an-aia-file-in-mit-app-inventor)
+[Guide to Open File in MIT App Inventor](#how-to-open-an-aia-file-in-mit-app-inventor)
 
 ## Introduction:
 
